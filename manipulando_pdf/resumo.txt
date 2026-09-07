@@ -1,0 +1,11 @@
+============================================================
+Resumo do relatorio de vendas criado no dia 25/08/2026.
+============================================================
+Este e um resumo com o a soma total das vendas dos dias 01/07/2025 | 02/07/2025 | 03/07/2025 | 04/07/2025 | 05/07/2025 | 
+
+Total de paginas resumidas:5
+Total de produtos vendidos:
+Teclado 49
+Mouse 72
+Monitor 31
+Impressora 10
